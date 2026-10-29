@@ -1,0 +1,101 @@
+/* Aurora Academic Charter School colours, sampled from the official logo (auroraschool.ca) */
+:root{
+  --navy:#202F4C;      /* logo "A" */
+  --sky:#80B7D3;       /* logo wing */
+  --navy-dark:#162138;
+  --sky-light:#E8F2F8;
+  --white:#FFFFFF;
+  --ink:#1B2333;
+  --muted:#4F5B70;
+  --green:#1E7B3C; --green-bg:#E6F4EA;
+  --red:#B3261E;   --red-bg:#FCE8E6;
+  --radius:14px;
+}
+*{box-sizing:border-box}
+html{font-size:100%}
+body{margin:0;font-family:"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--sky-light);line-height:1.5}
+.wrap{max-width:820px;margin:0 auto;padding:0 1rem}
+.skip{position:absolute;left:-999px;top:0;background:var(--white);color:var(--navy);padding:.5rem 1rem;z-index:10}
+.skip:focus{left:1rem}
+.site-header{background:var(--navy);color:var(--white);border-bottom:5px solid var(--sky)}
+.header-inner{display:flex;align-items:center;gap:1rem;padding-top:.8rem;padding-bottom:.8rem}
+.logo{height:60px;width:auto}
+.school{display:flex;flex-direction:column}
+.school-name{font-weight:700;font-size:1.2rem;letter-spacing:.01em}
+.school-sub{color:var(--sky);font-size:.9rem}
+.intro{padding:1.5rem 0 .5rem}
+h1{color:var(--navy);font-size:clamp(1.4rem,4vw,2rem);margin:0 0 .3rem;line-height:1.2}
+.subtitle{margin:0;color:var(--muted);font-weight:600}
+.topics{margin:.5rem 0 0;color:var(--muted)}
+.card{background:var(--white);border-radius:var(--radius);box-shadow:0 4px 18px rgba(32,47,76,.12);padding:1.5rem;margin:1rem 0;border-top:6px solid var(--navy)}
+.results-card h2{outline:none}
+.start-card h2,.results-card h2{color:var(--navy);margin-top:0}
+.start-card li{margin:.4rem 0}
+.progress-row{display:flex;justify-content:space-between;font-weight:600;color:var(--navy);font-size:.95rem}
+.score-label{color:var(--muted)}
+.progress{height:10px;background:var(--sky-light);border-radius:99px;margin:.5rem 0 1.2rem;overflow:hidden}
+.progress-fill{height:100%;width:0;background:linear-gradient(90deg,var(--navy),var(--sky));transition:width .3s}
+.q-text{font-size:clamp(1.1rem,2.8vw,1.35rem);margin:0 0 1rem;line-height:1.4;outline:none}
+.options{display:grid;gap:.7rem}
+.option{display:flex;gap:.8rem;align-items:flex-start;width:100%;text-align:left;font:inherit;font-size:1.05rem;padding:.9rem 1rem;border:2px solid #C9D6E3;border-radius:12px;background:var(--white);color:var(--ink);cursor:pointer;transition:border-color .15s,background .15s,transform .05s;min-height:3.2rem}
+.option:hover:not(:disabled){border-color:var(--sky);background:var(--sky-light)}
+.option:active:not(:disabled){transform:scale(.99)}
+.option:focus-visible{outline:3px solid var(--navy);outline-offset:2px}
+.option:disabled{cursor:default}
+.letter{flex:0 0 2rem;height:2rem;border-radius:50%;display:grid;place-items:center;background:var(--navy);color:var(--white);font-weight:700}
+.otext{flex:1 1 0;min-width:0}
+.option{flex-wrap:wrap}
+.option .mark{margin-left:auto;font-weight:700;white-space:nowrap}
+.option.correct{border-color:var(--green);background:var(--green-bg)}
+.option.correct .letter{background:var(--green)}
+.option.wrong{border-color:var(--red);background:var(--red-bg)}
+.option.wrong .letter{background:var(--red)}
+.option.dim{opacity:.6}
+.hint{margin-top:1rem;padding:.8rem 1rem;border-left:5px solid var(--sky);background:var(--sky-light);border-radius:8px}
+.feedback{margin-top:1rem;padding:1rem;border-radius:10px}
+.feedback.ok{background:var(--green-bg);border-left:5px solid var(--green)}
+.feedback.no{background:var(--red-bg);border-left:5px solid var(--red)}
+.ref{display:block;margin-top:.4rem;font-size:.9rem;color:var(--muted);font-style:italic}
+.feedback strong{display:block;margin-bottom:.25rem}
+.nav-row{display:flex;gap:.6rem;justify-content:space-between;flex-wrap:wrap;margin-top:1.3rem}
+.btn{font:inherit;font-weight:600;border-radius:10px;padding:.7rem 1.1rem;cursor:pointer;border:2px solid var(--navy);min-height:2.75rem}
+.btn:focus-visible{outline:3px solid var(--sky);outline-offset:2px}
+.btn-primary{background:var(--navy);color:var(--white)}
+.btn-primary:hover{background:var(--navy-dark)}
+.btn-ghost{background:var(--white);color:var(--navy)}
+.btn-ghost:hover{background:var(--sky-light)}
+.btn-outline{background:var(--white);color:var(--navy)}
+.btn-lg{font-size:1.1rem;padding:.9rem 1.5rem}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.score-big{display:flex;align-items:baseline;gap:1rem;font-size:2.4rem;font-weight:800;color:var(--navy)}
+.pct{font-size:1.5rem;color:var(--muted)}
+.review-list{padding-left:1.4rem}
+.review-list li{padding:.6rem 0;border-bottom:1px solid #E1E8EF}
+.review-list .r-q{font-weight:600}
+.r-ok{color:var(--green);font-weight:700}
+.r-no{color:var(--red);font-weight:700}
+.r-skip{color:var(--muted);font-weight:700}
+.review-list button{font:inherit;background:none;border:none;color:var(--navy);text-decoration:underline;cursor:pointer;padding:0}
+.site-footer{background:var(--navy);color:var(--sky-light);font-size:.85rem;padding:1rem 0;text-align:center}
+@media (max-width:560px){
+  .card{padding:1.1rem}
+  .nav-row .btn{flex:1 1 30%}
+  .school-name{font-size:1rem}
+  .option .mark{flex-basis:100%;margin-left:2.8rem;font-size:.95rem}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media print{
+  body{background:#fff;font-size:11pt}
+  .site-header{background:#fff;color:#000;border-bottom:2px solid var(--navy);-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .site-header .logo{content:url(images/aurora-logo.png)}
+  .skip,.btn,.nav-row,.review-list button{display:none!important}
+  .card{box-shadow:none;border:1px solid #ccc}
+}
+
+/* v3 simple main page */
+.header-inner{justify-content:center}
+.intro{text-align:center;padding:2rem 0 .25rem}
+.start-card{text-align:center;padding:2rem 1.5rem}
+.start-meta{margin:0 0 1.25rem;color:var(--muted);font-weight:600;font-size:1.05rem}
+.start-card .btn-lg{min-width:12rem}
+@media print{.intro{text-align:left;padding:.5rem 0}.header-inner{justify-content:flex-start}}

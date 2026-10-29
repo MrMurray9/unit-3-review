@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unit 3: Review</title>
+<meta name="description" content="Interactive Social Studies 7 review quiz on Chapter 8: the Métis, the Red River Resistance, the creation of Manitoba, and the 1885 Northwest Resistance.">
+<link rel="icon" href="images/aurora-logo.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to quiz</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <img src="images/aurora-logo-white.png" alt="Aurora Academic Charter School logo" class="logo" width="72" height="49">
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <section class="intro">
+    <h1>Unit 3: Review</h1>
+  </section>
+
+  <!-- Start screen -->
+  <section id="start" class="card start-card">
+    <p class="start-meta">25 questions</p>
+    <button type="button" id="startBtn" class="btn btn-primary btn-lg">Start</button>
+  </section>
+
+  <!-- Quiz card -->
+  <section id="quiz" class="card quiz-card" hidden aria-labelledby="qText">
+    <div class="progress-row">
+      <span id="progressLabel" class="progress-label">Question 1 of 25</span>
+      <span id="scoreLabel" class="score-label">Score: 0</span>
+    </div>
+    <div class="progress" role="progressbar" aria-label="Quiz progress" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1" id="progressBar">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <h2 id="qText" class="q-text" tabindex="-1"></h2>
+    <div id="options" class="options" role="group" aria-labelledby="qText"></div>
+    <div id="hintBox" class="hint" hidden></div>
+    <div id="feedback" class="feedback" hidden aria-live="polite"></div>
+    <div class="nav-row">
+      <button type="button" id="prevBtn" class="btn btn-ghost">← Previous</button>
+      <button type="button" id="hintBtn" class="btn btn-ghost" aria-expanded="false">💡 Hint</button>
+      <button type="button" id="nextBtn" class="btn btn-primary">Next →</button>
+    </div>
+  </section>
+
+  <!-- Results -->
+  <section id="results" class="card results-card" hidden aria-labelledby="resultsHeading">
+    <h2 id="resultsHeading" tabindex="-1">Your results</h2>
+    <div class="score-big"><span id="finalScore">0 / 25</span><span id="finalPct" class="pct">0%</span></div>
+    <p id="finalMsg" class="final-msg"></p>
+    <h3>Question review</h3>
+    <ol id="reviewList" class="review-list"></ol>
+    <div class="nav-row">
+      <button type="button" id="retakeBtn" class="btn btn-primary">↻ Retake quiz</button>
+    </div>
+  </section>
+
+</main>
+
+<script src="questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

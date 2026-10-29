@@ -17,10 +17,10 @@ window.QUIZ = {
  {
   "q": "How did the background and cultural practices of Francophone Métis differ from those of Country-Born Métis in the Red River settlement?",
   "o": [
-   "Francophone Métis were predominantly Roman Catholic with French ancestral ties, while Country-Born Métis were predominantly Protestant with British ancestral roots.",
-   "Francophone Métis were Protestant farmers, while Country-Born Métis were Roman Catholic fur traders.",
-   "Both groups spoke English exclusively and avoided First Nations spiritual traditions.",
-   "Country-Born Métis formed the largest single demographic group in the region."
+   "Francophone Métis were mostly Catholic with Canadien fathers; Country-Born Métis were mostly Protestant with British fathers.",
+   "Francophone Métis were mostly Protestant with British fathers; Country-Born Métis were mostly Catholic with Canadien fathers.",
+   "Francophone Métis spoke only French and gave up First Nations beliefs; Country-Born Métis spoke only Cree and kept them.",
+   "Country-Born Métis were the largest group at Red River, while the Francophone Métis were only a small minority there."
   ],
   "h": "Who were the fathers of each group: Canadiens, or British Hudson's Bay Company traders?",
   "x": "ycTMTCo4xcTMg4CcwBCL4AiLoNEIr92biRHelRlnQKuLzZWZpxWZiBycu9Wa0FmTgQ3cylmRgUWbvNHI0BXZrBycwV3bydGIoR3bCBiIuQnbhR3clR3byBFI5xGbhV3c1BSZyV2diACZuFGIsMnclRWYyRHI55WYw12bDBSehJEIzdibvNHZ1hEIoNXa0lmcCBCZuFGIuVWbvdHIz52bpRXYOBCdzJXaGBiZvBiblJHZslGajBSZoRHIlJXZ3Biby9mQgknc05WdvNEIlhGVgIiLzJ3b0NXZj5WYg4WZpRWYuF2QgIXalhGdgU2apxGIsMWas9Ga0F2QgkHbulWYtBSZyV2diAycpRXqD3EIl52boB3bj5WYyZEIlhGV"
@@ -28,10 +28,10 @@ window.QUIZ = {
  {
   "q": "What is Michif?",
   "o": [
-   "A traditional river lot farm structure modeled after Quebec land.",
-   "A legal land certificate issued by the Canadian government.",
+   "A system of narrow river lot farms at Red River, modeled after the seigneuries of Quebec.",
+   "A land certificate the Canadian government gave Métis families, worth about 240 acres.",
    "A unique Métis language blending French, English, Cree, and Anishinaabe words.",
-   "A type of freight boat used to replace birchbark canoes."
+   "A large wooden freight boat, rowed by six to eight men, that replaced birchbark canoes."
   ],
   "h": "Look at the \"Some Michif Phrases\" box in Chapter 8.",
   "x": "==gM3EDIuAHIsgDIug2Qgs2bvJGd4VGVeCp4ukXYk9GdgEGZh5WYDBibpBCdpByahVGczBCbslGdzBSZsB3blBHIk5WYzV3boRHIhBibhhGdgIXZ3VmRgIiLzRmcvdHIlJWYulGazlmbBBCZuFGIsUWZyNEIsg2cpx2ZuVEIsg2YuVmcGJCIkVGep1GI0lEIi4iZph2Yp1EIkVGbsF2YgwSZnFWdn5WYsBib39GIylWZoRHIlt2bwNHIvNHbhBiclZXaSBCZlJFI0FGIzlGdpOcTgknbh1kI"
@@ -61,10 +61,10 @@ window.QUIZ = {
  {
   "q": "What was pemmican, and why was it vital to the West's economy?",
   "o": [
-   "A woven blanket made from buffalo hide used for trade.",
-   "A high-energy food mixture of dried meat, fat, and berries essential for fur traders and hunters.",
-   "A grain harvested by Scottish settlers for export to Britain.",
-   "A wooden wheel rim wrapped in buffalo leather."
+   "A warm blanket made from buffalo hide that Métis traders sold at every fur trade post.",
+   "A food made of dried buffalo meat, fat, and berries that fur traders relied on.",
+   "A type of grain that the Selkirk settlers grew at Red River and shipped to Britain.",
+   "A wooden cart wheel wrapped in buffalo hide, used on Red River carts to haul meat."
   ],
   "h": "Think about what fur traders carried to eat on long trips across the plains.",
   "x": "==QN3EDIuAHIsgDIug2Qgs2bvJGd4VGVeCp4i4CdhVGIvRHI0lGIm9GInFmYgEGI0V3boRXa3ByculWYsBHIlhGdg8Gdu9GIlJXd05WZ2BCZsV3b3BiclRWYyRHIyVnZgI3bgIXZy9GbwhXZg8mbiACZuFGIsMnchVWegI3bmBCclV2agQGb192YgQXSgIiLuF2Yp1WblBHIkVGbsF2YgQ2bvZGIhBSZ0FWZyNGIvRHIzVWayJXZiBCZuFGI0FmZggGdpdHI0FWZtBCZlRGZlJHazBSZoRHIkVGep1mIgQmbhBCdhVWbg8GbhZmZ1JGIkVGZuV3bwBCZuFGIkVWayRGIuVWbvdHIzlGdpOcT"
@@ -72,10 +72,10 @@ window.QUIZ = {
  {
   "q": "Why did Lord Selkirk establish a settlement at Red River in the early 1800s?",
   "o": [
-   "To rehouse Scottish Highland farmers who were forced off their lands for sheep pastures.",
-   "To build a new military fort for the Northwest Company.",
-   "To create a dedicated trading post for Francophone Métis freighters.",
-   "To construct a railway line connecting Rupert's Land to Ontario."
+   "To give a new home to Highland Scots forced off their farms to make room for sheep.",
+   "To build a military fort that would protect North West Company traders from the HBC.",
+   "To set up a trading post where Francophone Métis could sell pemmican to Nor'Westers.",
+   "To start building a railway line that would connect Rupert's Land to Upper Canada."
   ],
   "h": "Selkirk was a Scottish nobleman who wanted to help people from his own country.",
   "x": "=czNxAiLwBCL4AiLoNEIr92biRHelRlnQKuIuknbvx2bjByZulWbyFmZgQXYlJ3ZgEmIg8GdulGIyVmdpJFIkVmUg4mc1RHIkxWdvdHI5VGa0BCZlB3boBSZIBiIuMXZyVHdzFGcgAXZlh2cgI3bmBSbv9mcgU2ah1GIvRHIz1mchZGIylWZoRHImZ2bgQWZjJ3bmByZulWZiBSZyV2dgkXZoRHIlJXZodHIsQmbhxGdvN2UgY2bgMHZuFGbodWaIBSZoRHIt9mcmJCIzVWaslWbhZGI0h2Z19mciByayl2asV2U"
@@ -83,10 +83,10 @@ window.QUIZ = {
  {
   "q": "What was the purpose of the Pemmican Proclamation issued in 1814?",
   "o": [
-   "To grant the Métis exclusive commercial rights over the buffalo hunt.",
-   "To encourage free trade between Red River and American merchants.",
-   "To ban the Métis from exporting meat, fish, or vegetables from Red River so Scottish settlers wouldn't starve.",
-   "To collect taxes on food shipments traveling down the Red River."
+   "To give the Métis the sole right to sell buffalo meat and pemmican to fur trade posts.",
+   "To encourage the Métis to trade pemmican freely with American merchants in Minnesota.",
+   "To ban the Métis from exporting meat, fish, or vegetables so colonists wouldn't starve.",
+   "To collect a tax on every boat carrying furs and food down the Red River toward Hudson Bay."
   ],
   "h": "The colony's governor was worried about his colonists running out of food.",
   "x": "=czNxAiLwBCL4AiLoNEIr92biRHelRlnQKuLkV2ZhJHd19GIlJXZ3BycyVGdzV2VnI3bOBCZuFGIzlGdpOcTgUGaUBiIuIXZ2lmUgQWZSBSbvJnZgMXZsJWY0V2ZlZHIy9GIsg2cpZGIsQXYl1GI55WYgcmbpRncvBHelBSbvJnZgMXa0l6wNBSZoRHIkVmbuFmYgUGagwCNxgTMg4WagwybTBiL552bs92YgUGa0BCdmVGbgQXYl1GIvxWYmZWdiBCajVXbg82b0BiZpBSZ2JXY0NHIkxWdvdHIzR3cp52bs92YgMXaoBCdhhGdgQWZpJncvdHI552bs92YgUGa0BiZvBicv5mclZ3bnBSZoRlI"
@@ -94,10 +94,10 @@ window.QUIZ = {
  {
   "q": "Why was the Battle of Seven Oaks (1816) significant in Métis history?",
   "o": [
-   "It marked the first time Francophone and Country-Born Métis stood united as a nation to defend their homeland.",
-   "It led directly to the immediate creation of Manitoba as a province.",
+   "It was the first time Francophone and Country-Born Métis united to defend their common interests.",
+   "It forced the British government to create the province of Manitoba later that same year.",
    "It permanently ended competition between the Hudson's Bay Company and the Northwest Company.",
-   "It convinced the Canadian government to grant free land scrip to all residents."
+   "It convinced the Hudson's Bay Company to give every Métis family a free river lot with legal papers."
   ],
   "h": "Think about the two Métis groups at Red River. What did they do together for the first time?",
   "x": "==AO3EDIuAHIsgDIug2Qgs2bvJGd4VGVeCp4p4SMygTMgwWa05Wdg4WavpGI09mbgQWakBycllmbhBXbvNGIyVnZg82d0BSZoRHIk5WYgwCM3gTMgwWa05WdgQWZ0FWZyNGI09mbgMXY3BSYi9Gdp5WYNhCIi4ibvlGdh5GIzlGdpOcTgUGa0BiZvByZulmbul2ZlJGIlhGdgQWZrJXYtBCduVmdlBycphGVg4yc0NXZyVGdulGIu9Wbt92YgIXalhGdgQmblZWZkByb0BycpRXqD3EIl52boB3bj5WYyZEIlhGdggGdpdHIkVmbp9magMXa0l6wNBiby9mQgknc05WdvNkI"
@@ -105,10 +105,10 @@ window.QUIZ = {
  {
   "q": "What drove many Métis families to migrate west toward Saskatchewan and Alberta in the mid-1800s?",
   "o": [
-   "Fleeing British troops after the Battle of Seven Oaks.",
-   "The decline of buffalo herds near Red River, requiring hunters to travel further west for the buffalo robe trade.",
-   "Free farmland offered by the Canadian government in Alberta.",
-   "Gold discoveries along the North Saskatchewan River."
+   "They were fleeing British soldiers who had been sent to punish them after Seven Oaks.",
+   "Buffalo herds near Red River were dying out, so hunters had to travel much farther west.",
+   "The Canadian government offered free farmland to Métis families who moved to Alberta.",
+   "Gold was discovered along the North Saskatchewan River, and many Métis went to mine it."
   ],
   "h": "What animal did Métis hunters follow, and what was happening to it?",
   "x": "=kzNxAiLwBCL4AiLoNEIr92biRHelRlnQKuL0JXZixWQg4CdTBCZuFGIlh2YvRXYCBychBCajV3cgMXZpRXauVXbt92YgAXdgQXZzBCZuFGI0NXZ3BCZlZ3btBSeuFWTgIiLkJXZoBSYgQmbpZGIvRHI552bs92QgIXZ2lmUgQWZSBSZoRHIt9mcmBichZGI5JXZ2BCblZXYyRHIvRHIkFGagMnclRnb1hGIsQXdvBSZpRGIvRHIuF2ZlJGIvxWYmZWdiBSZoRHIzFkIg4ydlJ3ZgMXZi9mcg8GbhZmZ1JGIy9mZgQmbh1WZkBCLzBDN4EDIlhGdg4WS"
@@ -116,10 +116,10 @@ window.QUIZ = {
  {
   "q": "Why were colonists in Ontario concerned about Rupert's Land in the late 1860s?",
   "o": [
-   "Growing steamboat trade with the U.S. made them worry the territory might be claimed by the United States.",
-   "The Hudson's Bay Company threatened to shut down all trade in Canada.",
-   "French Catholic schools were expanding into Ontario.",
-   "They feared an invasion from Red River cart traders."
+   "Growing trade with the U.S. made them worry the Americans might claim the territory.",
+   "The Hudson's Bay Company threatened to close all its trading posts in Ontario and Quebec.",
+   "They feared Red River's French Catholic schools would soon spread east into Ontario.",
+   "They feared Métis buffalo hunters would invade Ontario with Red River cart caravans."
   ],
   "h": "Red River was connected by a steamboat route to Minnesota. Which country was that in?",
   "x": "ygTMg4CcgwCOg4CaDByav9mY0hXZU5JkiLiLkxWdvdHIzVGdhR3UgQWZ0lmbVBSZoRHIsQmbhxEIzdCdyVGc1JFItlWYsNGI5x2ajlWdxBCdv5GIklGZgEGZh5WYDBiZpBCdhhGdgkncy92dg8Gdg4WYnVmYiAybpJXY052Tg4WagUGbw9WZwBSZt92Ug4yZul2dvJ3ZgMXY3ByUVBSZoRHIoRXa3BSZkFmc0BCZuFGIiwyclRXY0NFIkVGdp5WVgUGa0BibpBSY092cl5mbp1EIvRHIlRXdvJHI0F2bi1WYlR3cgEGI5JGIkVGdjVmbu92YgMXY3JCIyVmdpJFIkVmU"
@@ -127,7 +127,7 @@ window.QUIZ = {
  {
   "q": "How much did the Canadian government pay the Hudson's Bay Company for Rupert's Land in 1869?",
   "o": [
-   "$500,000",
+   "$2.25 million",
    "$10 million",
    "$40 million",
    "$1.5 million"
@@ -138,10 +138,10 @@ window.QUIZ = {
  {
   "q": "Why did Canadian land surveyors cause panic and confrontation at Red River in 1869?",
   "o": [
-   "They placed high taxes on river lot homes.",
-   "They attempted to tear down St. Boniface Catholic churches.",
-   "They only spoke English and started measuring land for incoming farmers without consulting or informing local Métis residents.",
-   "They confiscated horses and farm tools from residents."
+   "They told Métis families they must pay a new yearly tax on every river lot home.",
+   "They tried to tear down the Catholic church in St. Boniface to make room for roads.",
+   "They spoke only English and began measuring Métis land without warning or asking anyone.",
+   "They took horses, carts, and farm tools from Métis families to use on their survey."
   ],
   "h": "Did anyone warn the Métis that the surveyors were coming? Could the Métis understand them?",
   "x": "==wM4EzkAKuM4EDIuAHcgwCOg4CaDByav9mY0hXZU5Jki7SZ2FWZsByb0BSblhGdgQGbvRHIsVWaSBycpV3bMBiIu0WZoRHIk5WY0NnclRmb1BCdv5GIkxWdvNGIzlGdpOcTgcmbptWYlB3ctg2YuVmcGBSZoRHIk5WYgg2cpx2ZuVEI5xmbvBSZr9GczJCIzJ3b5VmdyV3cgUGaUBiIucmbp12bjBSZiBCZsV3b3Bycy9WelZnc1NHIlhGdgQXYoRHIzlGdpOcTgQmbhBycu9Wa0FmTgQ3cylmRgwWYj9GbgUGa0BibyF2dgQ3buBCZpRGI05WZt5mclZ3bnBSZoRlI"
@@ -149,9 +149,9 @@ window.QUIZ = {
  {
   "q": "What action did Louis Riel and the Métis take in December 1869 to protect their rights?",
   "o": [
-   "They attacked the Scottish settlement at Fort Douglas.",
-   "They signed a treaty with the American government.",
-   "They abandoned Red River and moved to Batoche.",
+   "They attacked the Scottish settlers at Fort Douglas and drove them out of Red River.",
+   "They signed a treaty asking the American government to make Red River part of the US.",
+   "They left Red River and moved west to start a new Métis community at Batoche.",
    "They took over Fort Garry and established the Métis Provisional Government."
   ],
   "h": "They set up a temporary government of their own. Where did they set it up?",
@@ -160,10 +160,10 @@ window.QUIZ = {
  {
   "q": "Which demand was included in the Métis Bill of Rights drafted in 1869?",
   "o": [
-   "That laws for the new province be decided by residents and official documents be printed in both French and English.",
-   "Total exclusion of English speakers from local government.",
-   "Immediate construction of a transcontinental railroad.",
-   "Elimination of local school boards."
+   "That residents decide the province's laws and documents be printed in French and English.",
+   "That only French-speaking residents be allowed to vote or serve in the new government.",
+   "That Canada build a railway from Red River to Ontario within the next ten years.",
+   "That school commissioners and sheriffs be appointed by Ottawa instead of elected."
   ],
   "h": "The Métis wanted to protect the interests of all the peoples already living in the territory.",
   "x": "=MDOxAiLwBCL4AiLoNEIr92biRHelRlnQKuIuMHduVGZpNXZyBSZoRHI5JGIkVGZpNWZkBSZiBCZsV3b3BSZj5Wa29mcwBydl5GIlhGdgI3bmByc3FGbiACdhhGdgQmbhBiIzV2ZhV3ZuFGbggGdvJGIulGIkVGdulmcwBSZiBCZsV3b3Byc05WZtV3YvRGI05WZt5mclZ3bHBiLlJXd0FGbzl2ZlxEIlhGdg4WagQWZzVHIlJGIkxWdvdHIoNXasdmbFBicvBCaj5WZyZEIyVGa0lWZiACdhhGdgQWahNHIzRHanlmUgY2bgwGbpJEIlhGV"
@@ -171,10 +171,10 @@ window.QUIZ = {
  {
   "q": "Why did the execution of Thomas Scott create severe friction between Ontario and Quebec?",
   "o": [
-   "Scott was a French Catholic leader supported by Quebec.",
-   "Scott was a member of Prime Minister Macdonald’s cabinet.",
-   "Scott was an English-speaking Protestant from Ontario; his death outraged Ontario Protestants while Quebec defended the Métis cause.",
-   "The execution led the United States to impose trade sanctions."
+   "Scott was a French Catholic priest from Quebec, and Quebec newspapers demanded revenge for his death.",
+   "Scott was a cabinet minister from Quebec whom Ontario MPs had wanted to remove from office.",
+   "Scott was an English Protestant from Ontario, so Ontario was outraged while Quebec backed the Métis.",
+   "The execution led the United States to stop trading with Ontario and Quebec for a year."
   ],
   "h": "Think about Scott's language, religion, and home province.",
   "x": "0gTMg4CcgwCOg4CaDByav9mY0hXZU5JkiLiLlZWasBiZvBSehdHIjlGbvhGdhNEIl52boB3bj5WYyZEIlhGdgY2bgMnclRmblZWZkBychBycpRXqD3EIlhGdgcXYzJCIjVmYpOcdRBibpBycuVWakFmbhNEI55WYtBSZslGa3BiIsU2ZuVmdlJHIy9mZgQWZsxWYjJCIzJXZwFGczdXZuBybpJXY052Tg4ybpJXY052Tg02byZGIyVmc19mYhxGIhBiIsQnbhR3clR3byBFIn5WarFWZwNXLoNXasdmbFBibhBychdHI0R3bjNlI"
@@ -182,10 +182,10 @@ window.QUIZ = {
  {
   "q": "What was a major term of the Manitoba Act of 1870?",
   "o": [
-   "Manitoba was denied its own provincial government.",
-   "Louis Riel was appointed Governor of Manitoba.",
-   "Federal control over natural resources was completely handed to Manitoba.",
-   "Both French and English were recognized in courts and legislature, dual school systems were established, and 560,000 hectares were reserved for the Métis."
+   "Manitoba would be run by officials appointed in Ottawa, not by its own elected government.",
+   "Louis Riel was named Manitoba's first premier and given a full pardon for Scott's death.",
+   "Manitoba was given full control over its natural resources and all of its unclaimed land, too.",
+   "French and English were used in the government and courts, and land was set aside for the Métis."
   ],
   "h": "Macdonald agreed to almost everything in the Métis Bill of Rights.",
   "x": "==QN4EDIuAHIsgDIug2Qgs2bvJGd4VGVeCp4uw2byRnbvNGIsFmclRWZmBiclRmb1BCZllXY0NHIzV2YyV3bzVmcgwWYyVHdh5EIi4ycpRXqD3EIlhGdgI3bmBSZkl2chBCdlNHIlJGIkxWdvdHIzVmchR3YlhGIwADMgAjN1ICIk5WYgwSKjlGbvhGdhNEIk5WYgQnbhR3clR3byBFKgMXblR3c5NHIs92boN2cgQWZk5WdmBSesNWasJWdwByb3RHIiwyc0JXdvNGIk5WYgQnbl1mbyVmdvdGIlhGdg4WagQWZzVHIlJGIkxWdvdHIoNXasdmbFBCZuFGIoNmblJnRggGdvJkIgQWZkVHbj5WagMXbyVGV"
@@ -193,10 +193,10 @@ window.QUIZ = {
  {
   "q": "Why did Louis Riel flee to the United States after the Manitoba Act was passed?",
   "o": [
-   "He was legally banished by the Manitoba government.",
-   "He was elected to office in North Dakota.",
-   "He was arrested by the Northwest Mounted Police.",
-   "Armed volunteer soldiers sent from Ontario sought revenge against him for Thomas Scott's death."
+   "Manitoba's new government had voted to arrest him and put him on trial at Fort Garry.",
+   "He had been elected to a government office in North Dakota and had to move there.",
+   "He was arrested by the North West Mounted Police and sent to prison in the United States.",
+   "Soldiers sent from Ontario wanted to capture him and punish him for Scott's death."
   ],
   "h": "Macdonald sent 1200 soldiers to Red River. What did many of them want?",
   "x": "==gN4EDIsQDOxAiLwBHIsgDIug2Qgs2bvJGd4VGVeCp4uMnchVWegUmdpZGIy9mZg0WaoBCZlh2cp5WYiBCduVWbuJXZ292ZgwWYyVGZlZGIlhGdgwiclRXYMBiIuMXZ0FGdTBCZlRXauVFIlhGdg8GdulGIyVGZy9mYgUGa0Bycz9mcjFGIkVGchN2clBCbllmUgwicldmbhRGIulGIzF2dgUGagQXYoRHIn5Wa39mbLJCIi4CbllmUgMXa19GTgUmc1RHchNGIk5WYgMXa0l6wNBSZoRHIoNXauVHcg8GdgMXY3BiYvpGIylWZoRHI0h2Z19Ga0BybodHIzJXZlRnb1x2b2BybpJXY052TgUmcldnIgMncllGZs92cgUGa0BiZvBSeuFWT"
@@ -204,21 +204,21 @@ window.QUIZ = {
  {
   "q": "What was land \"scrip,\" and why did many Métis lose out on land ownership because of it?",
   "o": [
-   "A tax certificate forcing farmers to pay yearly rent to Ottawa.",
-   "A coupon exchangeable for land or cash, which was difficult to claim and frequently sold off cheaply to speculators.",
-   "A treaty signed directly between First Nations chiefs and Hudson's Bay Company officers.",
-   "A travel permit required to cross provincial borders."
+   "A tax bill that forced Métis farmers to pay yearly rent to Ottawa, so many of them lost their farms.",
+   "A coupon for land that was hard to claim, so many Métis sold it for much less than it was worth.",
+   "A treaty between First Nations chiefs and the Hudson's Bay Company that left out the Métis.",
+   "A travel permit the Métis needed to leave Manitoba, so many could never reach their new land."
   ],
-  "h": "The textbook says \"A scrip is like a coupon.\"",
+  "h": "It was supposed to give each Métis family about 240 acres. Did the system work well?",
   "x": "=ITOxACL3gTMg4CcwBCL4AiLoNEIr92biRHelRlnQKuIugGdy92dgMXY3BCdpBibhhGdgM3clxGIoNWdtBicvZGIuVGdm9GIsAXayN2cgIXalhGdgQGbvNnIgknbh1GIsUDO4EDIyVGdmFGIulWYnFGIkVWdzNXagMXY3BCcpJ3YzBiblh2VgIiLk5WYsBicpVGa0BSZ2lWZjVmcgQ3buBCZpRGIzlGdpOcTgknbh1GIk5WYgwCbsV2dgsmcvdHI09mbgQWakBSblR3c5NHIlhGViAiIuMXZyNWYgADNyACd19mYhByb0BCcph2cyVmb39GItVGa0ByZulmdpdGIwlmcjNHIhBSZ2lWZjVmcg8GdgQWZz9GcwV3cgMXY3JCI5xWatFmZgMXa0l6wNBCajFWR"
  },
  {
   "q": "What critical economic challenge did Métis and First Nations communities face in the West during the 1880s?",
   "o": [
-   "Wheat crop failure across the prairies.",
+   "Wheat crops failed across the prairies after several years of drought and early frost.",
    "Severe food shortages and poverty caused by the near-extinction of the buffalo.",
-   "Total shutdown of the fur trade in Quebec.",
-   "Heavy taxes placed on Red River carts."
+   "The fur trade shut down completely after Quebec banned the sale of beaver furs.",
+   "Ottawa placed heavy taxes on Red River carts and York boats used to move goods west."
   ],
   "h": "Which animal had the Métis and Plains First Nations depended on for food?",
   "x": "==gM5EDIscDOxAiLwBHIsgDIug2Qgs2bvJGd4VGVeCp4uEGZh5WYDBiZvBCbsFGIulGI0ZWZsBybsFmZmVnYgADMxASes52bgUmcldHIlJXZoRHIsUDO4EDI5JEIuMHdhVmcoRHIyFGbp1WazBCZlNWYmBycu9Wa0FmTgQ3cylmRgIiLu9Wa0FGb1B3bwBybsFmZmVnYgQWZjVHZlJHI5xGbhNWa0NXYyRGIlhGdg02byZGIkVGdsV3clJHI0FGa0BSe0JXZ29GcgQmbhBibvlGdhZnchR3cgMXYgg2Y1NHIsUmZpxGIm9GI5F2dgIXalhGdg8GdgMXZn5WZsxWYoNGIm9GIyVmYtVnbgEGIkV2YhZGIzlGdpOcTgUGa0BycwgDOxASZoRHI5JkI"
@@ -226,13 +226,13 @@ window.QUIZ = {
  {
   "q": "Who traveled to Montana in 1884 to invite Louis Riel back to Canada to lead western grievances?",
   "o": [
-   "Cuthbert Grant",
-   "Robert Semple",
+   "Big Bear",
+   "Father Lacombe",
    "Gabriel Dumont",
-   "Thomas Scott"
+   "Poundmaker"
   ],
   "h": "He was a famous buffalo hunter who later became the Métis military general.",
-  "x": "==QO4EzkAKOO4EDIuAHcgwCOg4CaDByav9mY0hXZU5JkiniLwcDOxAibpBCZllGZgQHdvN2UgsjNxgTMg4WagM3ah9EIuVmdlNFI0FGIlJXZ3BSZsBXblNFIk5WYgQnbhJ3RoAiIuEGZh5WYDByb0ByajFmYgwWZpJFIzlWdvxEIkVGdpZnbpBCZuFGIzVGdhR3UgQWZ0lmbVBSZoRHIvRHIkVGbsVmdhJHdgwCdu9Wb1REIsVWayJWYHBSeiBCZlxGIsMXa0l6wNBiZvBCc19mcnBSYgwCN4gTMgY2bgIXZt1WdzBSZoRHIulkI"
+  "x": "=kDOxMJgijDOxAiLwBHIsgDIug2Qgs2bvJGd4VGVeCp4p4SeyFmbvl2czlWbgMWas9Ga0F2QgEGIzF2dgUmYt92YhxEIyVGa0FmRgQmbhBCLzJXZkFWZsBSZlJ3QgUmcldHIyV2ah1GZuV3bQBCZuFGIyFWZCByZpJEKg4CbhJXZuV2ZgMXa0l6wNBSZoRHIl1WYjVmYgQnbv1WdEBiIuEGZh5WYDByb0ByajFmYgwWZpJFIzlWdvxEIkVGdpZnbpBCZuFGIzVGdhR3UgQWZ0lmbVBSZoRHIvRHIkVGbsVmdhJHdgwCdu9Wb1REIsVWayJWYHBSeiBCZlxGIsMXa0l6wNBiZvBCc19mcnBSYgwCN4gTMgY2bgIXZt1WdzBSZoRHIulkI"
  },
  {
   "q": "Where did the first armed confrontation of the Northwest Resistance occur in March 1885?",
@@ -248,10 +248,10 @@ window.QUIZ = {
  {
   "q": "How did the Canadian government transport thousands of soldiers quickly to Batoche in 1885?",
   "o": [
-   "Using York boats on the Saskatchewan River.",
-   "By horse-drawn Red River cart caravans.",
+   "Using a fleet of York boats rowed up the Saskatchewan River.",
+   "By long caravans of horse-drawn Red River carts across the plains.",
    "On the newly constructed Canadian Pacific Railway (CPR).",
-   "On American steamboats via the Red River."
+   "On American steamboats travelling north along the Red River."
   ],
   "h": "Ottawa's top priority in the West in the 1880s was building something across the prairies.",
   "x": "=kDOxMJgijDOxAiLwBHIsgDIug2Qgs2bvJGd4VGVeCp4ukHdpJ3bpJHcgM3JhdXY0R3TgMXY3BycllmcpFmcwBSZoRHIzN3byNWYgkXY3xWahJFIjlmZpNWYQBibhlGZh5WYDBSZoRHIn5WakxWa1JEIi4SehdHbpFmcgQHbpVnYgkHb3VmbgUGa0BCZyF2biFGI0NXZ3BycyVWakx2bzBiZvByck5WYzV3boRHIkVGazVncgQnbl1mbyVmdvdGIsFmclRWZmBSZoRlI"
@@ -270,10 +270,10 @@ window.QUIZ = {
  {
   "q": "How did Louis Riel's execution in November 1885 impact relations in Canada?",
   "o": [
-   "It united English and French Canadians in support of the federal government.",
-   "It prompted Manitoba to withdraw from Confederation.",
-   "It deeply fractured relations between Ontario and Quebec, where flags flew at half-mast and Canadiens felt betrayed by English Protestants.",
-   "It led to immediate self-government rights for western Indigenous peoples."
+   "It united English and French Canadians, who all agreed that the federal government acted fairly.",
+   "It caused Manitoba to vote to leave Confederation and become a separate Métis homeland.",
+   "It divided Ontario and Quebec; Canadiens lowered flags to half-mast and blamed English Canada.",
+   "It led Ottawa to give western First Nations and Métis the right to govern themselves."
   ],
   "h": "Ontarians saw Riel as a traitor. How did Canadiens in Québec see him?",
   "x": "xkTMg4CcgwCOg4CaDByav9mY0hXZU5Jki7CbhVXcl5WdgMXY3BiIwlGazJXZuRnchBnIg42bpRXYyVGZlZmbvNEIlhGdgQXYoRHIz52bpNWawNXdzBicpVGa0BCZl1mcpZmbvNGI0lGIk5WYgICLoRXYlRGIzdCbllmUgI3bmBybpJXY052Tg4WagMnbhlGZh5WYDBCazlGbn5WRgQWZtFGbiBycuVWakFmbhNEIlhGViAiIuQ3ch1WLmxWYoByb0BCZlBHcvJHZgUmcldHIzdWYsZGIsMWZil6w1FFIkVGajFWZyByc3Vmbg4WZodlI"
